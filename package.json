@@ -1,0 +1,13 @@
+{
+  "name": "solid-portfolio",
+  "version": "1.0.0",
+  "description": "Примеры принципов SOLID на TypeScript на основе сайта-портфолио",
+  "private": true,
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc && node dist/index.js"
+  },
+  "devDependencies": {
+    "typescript": "5.6.3"
+  }
+}
